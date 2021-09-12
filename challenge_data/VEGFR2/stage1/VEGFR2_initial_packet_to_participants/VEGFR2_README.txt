@@ -1,0 +1,1 @@
+Dataset packet provided: VEGFR2_initial_packet_to_participants.zipVEGFR2_target_D3R_GC3.fasta: Protein sequence file of the VEGFR2 construct used in the Kd experiments.VEGFR2_score_compounds_D3R_GC3.csv: CSV file of 85 compounds and their corresponding SMILES strings, target, and subchallenge name.
