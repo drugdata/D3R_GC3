@@ -1,0 +1,7 @@
+Ligand_ID,Smiles,Target,Subchallenge,Kd(uM)
+D3RKN_29,CC(C)c1nc(c(s1)-c1ccnc(Nc2ccc(nc2)N2CCOCC2)n1)-c1cccc(NS(=O)(=O)c2c(F)cccc2F)c1F,TIE2,Kinase_Activity_Cliff_TIE2,0.0034
+D3RKN_42,CC(C)c1nc(c(s1)-c1ccnc(Nc2ccc(nc2)N2CCOCC2)n1)-c1ccc(F)c(NS(=O)(=O)c2c(F)cccc2F)c1,TIE2,Kinase_Activity_Cliff_TIE2,0.024
+D3RKN_98,CC(C)c1nc(c(s1)-c1ccnc(Nc2ccc(nc2)N2CCN(CC2)C(C)=O)n1)-c1cccc(NS(=O)(=O)c2cccc(Cl)c2)c1,TIE2,Kinase_Activity_Cliff_TIE2,0.093
+D3RKN_117,CC(C)c1nc(c(s1)-c1ccnc(Nc2ccc3CCN(C)Cc3c2)n1)-c1cccc(NS(=O)(=O)c2ccccc2)c1,TIE2,Kinase_Activity_Cliff_TIE2,0.092
+D3RKN_118,CC(C)c1nc(c(s1)-c1ccnc(Nc2ccc(nc2)N2CCOCC2)n1)-c1cccc(NS(=O)(=O)c2c(F)cccc2F)c1,TIE2,Kinase_Activity_Cliff_TIE2,0.027
+D3RKN_120,CCc1nc(c(s1)-c1ccnc(Nc2ccc(nc2)N2CCN(CC2)C(C)=O)n1)-c1cccc(c1)N(C)S(=O)(=O)c1ccccc1,TIE2,Kinase_Activity_Cliff_TIE2,3.2

@@ -1,0 +1,13 @@
+Ligand_ID,Smiles,Target,Subchallenge
+D3RKN_45,CCOC(=O)N1CCC(CC1)n1cnc(c1-c1ccnc(N)n1)-c1ccc(F)cc1,ABL1-nonphosphorylated,Kinase_Mutants
+D3RKN_45,CCOC(=O)N1CCC(CC1)n1cnc(c1-c1ccnc(N)n1)-c1ccc(F)cc1,ABL1(F317I)-nonphosphorylated,Kinase_Mutants
+D3RKN_45,CCOC(=O)N1CCC(CC1)n1cnc(c1-c1ccnc(N)n1)-c1ccc(F)cc1,ABL1(F317L)-nonphosphorylated,Kinase_Mutants
+D3RKN_45,CCOC(=O)N1CCC(CC1)n1cnc(c1-c1ccnc(N)n1)-c1ccc(F)cc1,ABL1(H396P)-nonphosphorylated,Kinase_Mutants
+D3RKN_45,CCOC(=O)N1CCC(CC1)n1cnc(c1-c1ccnc(N)n1)-c1ccc(F)cc1,ABL1(Q252H)-nonphosphorylated,Kinase_Mutants
+D3RKN_45,CCOC(=O)N1CCC(CC1)n1cnc(c1-c1ccnc(N)n1)-c1ccc(F)cc1,ABL1(T315I)-nonphosphorylated,Kinase_Mutants
+D3RKN_98,CC(C)c1nc(c(s1)-c1ccnc(Nc2ccc(nc2)N2CCN(CC2)C(C)=O)n1)-c1cccc(NS(=O)(=O)c2cccc(Cl)c2)c1,ABL1-nonphosphorylated,Kinase_Mutants
+D3RKN_98,CC(C)c1nc(c(s1)-c1ccnc(Nc2ccc(nc2)N2CCN(CC2)C(C)=O)n1)-c1cccc(NS(=O)(=O)c2cccc(Cl)c2)c1,ABL1(F317I)-nonphosphorylated,Kinase_Mutants
+D3RKN_98,CC(C)c1nc(c(s1)-c1ccnc(Nc2ccc(nc2)N2CCN(CC2)C(C)=O)n1)-c1cccc(NS(=O)(=O)c2cccc(Cl)c2)c1,ABL1(F317L)-nonphosphorylated,Kinase_Mutants
+D3RKN_98,CC(C)c1nc(c(s1)-c1ccnc(Nc2ccc(nc2)N2CCN(CC2)C(C)=O)n1)-c1cccc(NS(=O)(=O)c2cccc(Cl)c2)c1,ABL1(H396P)-nonphosphorylated,Kinase_Mutants
+D3RKN_98,CC(C)c1nc(c(s1)-c1ccnc(Nc2ccc(nc2)N2CCN(CC2)C(C)=O)n1)-c1cccc(NS(=O)(=O)c2cccc(Cl)c2)c1,ABL1(Q252H)-nonphosphorylated,Kinase_Mutants
+D3RKN_98,CC(C)c1nc(c(s1)-c1ccnc(Nc2ccc(nc2)N2CCN(CC2)C(C)=O)n1)-c1cccc(NS(=O)(=O)c2cccc(Cl)c2)c1,ABL1(T315I)-nonphosphorylated,Kinase_Mutants

@@ -1,0 +1,4 @@
+This folder contains 24 CatS crystallographic structures for docking, in addition to a CSV file containing mappings between ligand IDs and structure IDs:
+File CatS_ligandID_structureID.csv displays which ligand was crystallized with each structure ID.
+Files in structure ID files are labeled by the following syntax: pdbid-CatS_chain#.pdb
+All structure ID files were aligned to chain A of the gabj structure.

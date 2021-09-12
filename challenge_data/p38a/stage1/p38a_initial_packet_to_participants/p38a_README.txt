@@ -1,0 +1,1 @@
+Dataset packet provided: p38a_initial_packet_to_participants.zipp38a_target_D3R_GC3.fasta: Protein sequence file of the p38- construct used in the Kd experiments.p38a_score_compounds_D3R_GC3.csv: CSV file of 72 compounds and their corresponding SMILES strings, target, and subchallenge name.

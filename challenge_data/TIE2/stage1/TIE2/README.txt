@@ -1,0 +1,1 @@
+Kds were determined using a compound top concentration = 10,000 nM. Therefore, the 10 micromolar Kd entries in the answers should be interpreted as greater than or equal to 10 micromolar.
